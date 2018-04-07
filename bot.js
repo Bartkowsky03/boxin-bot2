@@ -42,3 +42,4 @@ bot.on("ready", function() {
     console.log("Dostepne komendy: boxin");
     bot.user.setGame('idk');
 });
+client.login(process.env.BOT_TOKEN);
