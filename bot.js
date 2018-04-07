@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const YTDL = require("ytdl-core");
 
-const TOKEN = "NDI4NTcwNjUwNzY5MzU4ODUx.DZ-6Wg.qJUgkAvk4sinaNgr8j3V55qLHNE";
+const TOKEN = "NDI4NTcwNjUwNzY5MzU4ODUx.Dap7IQ.tPJJntq5jdNC2JLm8bRYS83MaMw";
 const PREFIX = "-";
 
 function play(connection, message) {
